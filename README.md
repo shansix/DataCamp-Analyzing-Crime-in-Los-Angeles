@@ -1,4 +1,4 @@
-# DataCamp Analyzing Crime-in-Los-Angeles
+# DataCamp | Analyzing Crime in Los Angeles
 
 This project is part of the **Associate Data Scientist in Python** career track on DataCamp. The primary goal is to analyze crime data in Los Angeles by identifying the areas, times, age groups, and other factors with crime frequencies.
 
